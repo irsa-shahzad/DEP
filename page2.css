@@ -1,0 +1,72 @@
+body{
+	font-family: Ariel;
+	background-color: gray;
+
+}
+header
+{
+	 background-color:black;
+    color: white;
+    text-align: center;
+    padding: 1px 0;
+     border-radius: 8px;
+}
+nav{
+	background-color: lightgray;
+	 border-radius: 8px;
+}
+ul{
+	text-align: center;
+	list-style: none;
+
+}
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+
+}
+nav ul li{
+	margin: 15px 15px 15px 15px;
+	padding: 15px 15x 15px 15px;
+}
+main{
+	background-color: white;
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
+a{
+	
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
+#about{
+	background-color: white;
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
+#edu
+{
+background-color: white;
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
+#hobbies
+{
+background-color: white;
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
+#contact
+{
+background-color: white;
+	padding: 20px;
+	margin:20px 0;
+	border-radius: 10px;
+}
