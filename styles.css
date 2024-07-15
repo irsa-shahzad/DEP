@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.posts .post {
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+
+.posts .post h2 {
+    margin: 0;
+}
+
+.posts .post p {
+    margin: 10px 0;
+}
+
+.posts .post small {
+    color:black;
+}
+
+a {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    margin: 5px 0 5px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
